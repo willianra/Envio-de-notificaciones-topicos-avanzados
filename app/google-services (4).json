@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725432742423",
+    "project_id": "topicos-avanzados-notif",
+    "storage_bucket": "topicos-avanzados-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725432742423:android:a964b8a47ef7883beca252",
+        "android_client_info": {
+          "package_name": "org.willianrojasalba.notificaciones_topicos_avanzados"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725432742423-3irp7u2psab51u4ct7oeut0ai9u6bigr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.willianrojasalba.notificaciones_topicos_avanzados",
+            "certificate_hash": "67048b14447f8a7b01c2703100820ba17424682a"
+          }
+        },
+        {
+          "client_id": "725432742423-i0o3g0sp8ndm1am0h7aljd40s25k9b9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABjGlbKSScMHI6kJWvRIWZ3xDClt4281k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725432742423-i0o3g0sp8ndm1am0h7aljd40s25k9b9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
